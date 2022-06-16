@@ -2,6 +2,7 @@
     require './lib/autoload.php';
 
     $smarty = new Template();
+    Rotas::get_pagina();
 
 
 
