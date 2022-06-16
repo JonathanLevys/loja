@@ -6,7 +6,7 @@
 
 
    // Valores para o template
-$smarty-> assign('NOME' , 'JONATHAN');
+$smarty -> assign('NOME' , 'JONATHAN');
 
 $smarty -> display('index.html');
 ?>
